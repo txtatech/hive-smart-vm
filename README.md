@@ -32,7 +32,7 @@ Hive Smart VM is a project that integrates Node.js virtual machine (VM) boot pro
 It enables dynamic VM booting based on time conditions verified through the Hive blockchain, offering a layer of functionality and security in blockchain-based operations.
 
 ## Key Features
-- **Blockchain-Linked VM Booting:** Boots a VM stored as a file on the Hive blockchain, based on blockchain-verified conditions.
+- **Blockchain-Linked VM Booting:** Boots a VM stored as files on the Hive blockchain, based on blockchain-verified conditions.
 - **Time Synchronization:** Ensures the VM boots only when the Hive blockchain time aligns with a predefined target time.
 - **Public Key Retrieval:** Fetches public keys from Hive blockchain accounts, aiding in identity verification and testing.
 - **Special Account Handling:** Capable of handling Hive accounts with special characters or unique attributes.
