@@ -5,7 +5,7 @@ This project is part of the [hive-fc-lunx](https://github.com/txtatech/hive-fc-l
 
 This project is also a linux fork of [v86-NodeVM](https://github.com/superdinmc/v86-NodeVM)
 
-## Please note that nothing is written to the blockchain at this time and this project is still in a viabiliy testing phase.
+## Please note that nothing is written to the blockchain at this time and this project is still in a testing phase.
 
 # Quick Usage:
 
