@@ -5,7 +5,9 @@ This project is part of the [hive-fc-linux](https://github.com/txtatech/hive-fc-
 
 This project is also a linux fork of [v86-NodeVM](https://github.com/superdinmc/v86-NodeVM)
 
-The [node-toad](https://github.com/txtatech/hive-smart-vm/tree/main/node-toad) directory contains everything needed to nest a node script inside of another node script. 
+The [node-toad](https://github.com/txtatech/hive-smart-vm/tree/main/node-toad) directory contains everything needed to nest a node script inside of another node script.
+
+The [toad-js](https://github.com/txtatech/hive-smart-vm/tree/main/toad-js) directory contains a version of 'hive_smart_vm.js' that is nested with the node-toad method and whose V86 (and Linux OS) has been encrypted with AES encryption. Note: Please use the contents of the included 'secretKey.txt' to unlock it after launch.
 
 ## Please note that nothing is written to the blockchain at this time and this project is still in a testing phase.
 
