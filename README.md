@@ -5,6 +5,8 @@ This project is part of the [hive-fc-linux](https://github.com/txtatech/hive-fc-
 
 This project is also a linux fork of [v86-NodeVM](https://github.com/superdinmc/v86-NodeVM)
 
+The [node-toad](https://github.com/txtatech/hive-smart-vm/tree/main/node-toad) directory contains everything needed to nest a node script inside of another node script. 
+
 ## Please note that nothing is written to the blockchain at this time and this project is still in a testing phase.
 
 # Quick Usage:
