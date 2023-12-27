@@ -115,16 +115,6 @@ function formatTimestamp(timestamp) {
     return timestamp.toISOString();
 }
 
-// Function to get the local system time
-function getLocalTime() {
-    return new Date(); // Gets the current system time
-}
-
-// Function to format a timestamp in the desired format
-function formatTimestamp(timestamp) {
-    return timestamp.toISOString();
-}
-
 function decodeAndDecompress(chunks) {
     try {
         const concatenatedData = chunks.join('');
