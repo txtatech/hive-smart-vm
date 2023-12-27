@@ -11,6 +11,8 @@ The [toad-js](https://github.com/txtatech/hive-smart-vm/tree/main/toad-js) direc
 
 ## Please note that nothing is written to the blockchain at this time and this project is still in a testing phase.
 
+## Please use the main branch instead of the 'releases' for the latest versions.
+
 # Quick Usage:
 
 ```bash
